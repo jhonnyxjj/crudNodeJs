@@ -24,6 +24,3 @@ O projeto é organizado de forma a separar as responsabilidades, com um módulo 
 
 Para executar a API, basta clonar o repositório, instalar as dependências (se houver) e iniciar o servidor. A API escuta na porta 3000 por padrão.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
